@@ -1,14 +1,14 @@
 # Data Science: Análise Exploratória
 
-Boas-vindas a mais um curso de **Data Science** da Alura!
+ **Data Science** 
 
-Esse Github foi produzido com muito carinho para você montar o seu portfólio com as atividades do curso e elaborar suas próprias hipóteses, testar as técnicas exploradas
-dentro do curso e também adicionar outras durante a prática conciliando a linguagem Python e os conceitos de Data Science.
+Link do meu notebook, feito no Google Colab, com anotações pessoais 
+(https://colab.research.google.com/drive/1ok57WFKkTayEbsdrC5-1F95dTKEtDthv?usp=sharing) 
 
-O objetivo deste curso é auxiliar você a realizar a análise exploratória de base de dados de filmes, observando e investigando as suas notas e suas características,
-descrever os dados e também construir suas primeiras visualizações.
+Bancos de dados utilizados 
 
-Ao concluir este curso, você será capaz de gerar um Jupyter Notebook (Google Colab) com o processo da análise exploratória dos dados, visualizações simples e voltadas à 
-análise dos dados, combinando a linguagem Python com as técnicas de Data Science.
+(https://raw.githubusercontent.com/alura-cursos/data-science-analise-exploratoria/main/Aula_0/ml-latest-small/ratings.csv)
 
-Sinta-se à vontade para fazer o fork desse projeto e construir o seu portfólio!
+(https://raw.githubusercontent.com/alura-cursos/data-science-analise-exploratoria/main/Aula_0/ml-latest-small/movies.csv)
+
+(https://cdn3.gnarususercontent.com.br/3675-data-science-analise-exploratoria/Projeto/Base_Atividades/serenatto_2sem_2023.csv)
